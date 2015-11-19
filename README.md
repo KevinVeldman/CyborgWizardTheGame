@@ -1,8 +1,8 @@
 # CyborgWizardTheGame 
 
 By:
-Kevin 
-Mike
-Diederick
-Thijs
+Kevin, 
+Mike,
+Diederick,
+Thijs &
 Kostas
