@@ -1,2 +1,8 @@
-# CyborgWizardTheGame
-# LoL
+# CyborgWizardTheGame 
+
+By:
+Kevin 
+Mike
+Diederick
+Thijs
+Kostas
